@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95c12163-6f80-4440-a22d-a7e03de1c1be" name="amiralibagheri" url="https://amiralibagheri.ir">
+        <fileTransfer rootFolder="/amiralibagheri.ir" host="188.0.241.91" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
