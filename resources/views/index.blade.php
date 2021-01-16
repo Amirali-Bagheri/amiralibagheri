@@ -57,6 +57,7 @@
                     <a class="social-icon" href="https://twitter.com/Amirali2079"><i class="fab fa-twitter"></i></a>
                     <a class="social-icon" href="https://api.whatsapp.com/send?phone=989129286632"><i class="fab fa-whatsapp"></i></a>
                     <a class="social-icon" href="https://instagram.com/amirali.b2000"><i class="fab fa-instagram"></i></a>
+                    <a class="social-icon" href="https://www.linkedin.com/in/amiralibagheri"><i class="fab fa-linkedin"></i></a>
                     <a class="social-icon" href="mailto:contact@amiralibagheri.ir"><i class="fas fa-envelope"></i></a>
                 </div>
             </div>
